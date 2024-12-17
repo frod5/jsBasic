@@ -151,6 +151,8 @@ console.log("--------------")
  * &&를 사용했을 때 좌측이 false면 좌측 값 반환
  * ||를 사용했을 때 좌측이 true면 좌측 값 반환
  * ||를 사용했을 때 좌측이 false면 우측 값 반환
+ *
+ * 나중에 까먹으면 https://despiteallthat.tistory.com/54 참고
  */
 
 console.log(true || 'text'); // true
